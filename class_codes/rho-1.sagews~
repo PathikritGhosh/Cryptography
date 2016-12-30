@@ -1,3 +1,4 @@
+︠cb783fda-0f21-4fce-8b4d-2a3cf1a680e8︠
 def pollard(n,B):           #B is the bound
     a=2
     for j in range(2,B):

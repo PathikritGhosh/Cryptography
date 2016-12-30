@@ -1,3 +1,4 @@
+︠fef24a23-38bb-445f-8b64-bf6e39ede0e1s︠
 def chinese(a,b,c,d,e,f):
     m=b*d*f
     m1=b
@@ -15,6 +16,10 @@ def chinese(a,b,c,d,e,f):
     result=mod(result,m)
     print result
     
+chinese(1,2,17,25,5,9)
+︡2cd5c397-2023-4d7c-8ebd-f744a7689eb4︡︡{"stdout":"167\n"}︡{"done":true}
+︠8c3e9973-d6d5-46de-a348-de443bf42089︠
+
 
 
 
